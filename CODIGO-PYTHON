@@ -88,7 +88,7 @@ tur.penup()
 tur.goto(0,310)  # Posición donde deseas agregar el texto
 tur.pendown()
 tur.color("black")  # Color del texto
-tur.write("PARA TI HERMOSA!!", align="center", font=("Stencil", 45, "italic"))
+tur.write("Regresemos ¿SI?", align="center", font=("Stencil", 45, "italic"))
 
 
 # Mueve la pluma a la posición donde deseas dibujar el corazón
